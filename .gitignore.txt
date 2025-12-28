@@ -1,0 +1,29 @@
+# Data files
+*.csv
+*.xlsx
+*.npy
+
+# Model files
+*.h5
+*.keras
+*.pt
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
